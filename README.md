@@ -1,3 +1,3 @@
 # Pern-stack
-yarn start
-yarn build
+- yarn start
+- yarn build
